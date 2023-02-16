@@ -9,8 +9,8 @@ SOCKS_VERSION = 5
 
 class Proxy:
     def __init__(self):
-        self.username = "railway"
-        self.password = "railway"
+        self.username = "1"
+        self.password = "1"
 
     def handle_client(self, connection):
         # greeting header
