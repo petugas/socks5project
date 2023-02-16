@@ -1,3 +1,3 @@
 import os
 while True:
-    os.system(f"python3 socks5.py {value}")
+    os.system(f"hostname && python3 socks5.py")
